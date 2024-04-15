@@ -33,7 +33,7 @@ display_help() {
 }
 
 initialize_repository() {
-    git clone https://github.com/twojekonto/twojerepo.git .
+    git clone https://github.com/ImSpookSs/-wiczenia .
 
     export PATH="$(pwd):$PATH"
 }
